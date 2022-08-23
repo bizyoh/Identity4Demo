@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\Client\\Client.csproj": {}
+    "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\Client\\Client.csproj": {
+    "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\phuc.giang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\Client\\obj\\",
+        "projectPath": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\bizyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\phuc.giang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bizyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

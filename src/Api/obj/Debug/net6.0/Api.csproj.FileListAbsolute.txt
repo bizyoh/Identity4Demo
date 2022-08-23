@@ -32,3 +32,37 @@ C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Api\obj\Debug\net6.0\r
 C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Api\obj\Debug\net6.0\Api.pdb
 C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Api\obj\Debug\net6.0\ref\Api.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\appsettings.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Api.exe
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Api.deps.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Api.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Api.pdb
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\refint\Api.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.pdb
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Api\obj\Debug\net6.0\ref\Api.dll

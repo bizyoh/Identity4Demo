@@ -3712,19 +3712,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phuc.giang\\.nuget\\packages\\": {}
+    "C:\\Users\\bizyo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
-      "packagesPath": "C:\\Users\\phuc.giang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\IdentityServer\\obj\\",
+      "projectPath": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\IdentityServer\\IdentityServer.csproj",
+      "packagesPath": "C:\\Users\\bizyo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\phuc.giang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bizyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3777,7 +3777,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

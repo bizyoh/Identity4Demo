@@ -364,5 +364,9 @@ namespace IdentityServerHost.Quickstart.UI
 
             return vm;
         }
+        public IActionResult Logout()
+        {
+            return SignOut("Cookies", "oidc");
+        }
     }
 }

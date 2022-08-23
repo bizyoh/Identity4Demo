@@ -16,3 +16,21 @@ C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Client\obj\Debug\net6.
 C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Client\obj\Debug\net6.0\Client.pdb
 C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
 C:\Users\phuc.giang\source\repos\Iden4demo\quickstart\src\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\Client.exe
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\Client.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\bizyo\OneDrive\Tài liệu\GitHub\Identity4Demo\src\Client\obj\Debug\net6.0\ref\Client.dll

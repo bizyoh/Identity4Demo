@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6bZ0UJqAQZqC1EdYIMSTKhLsIxok5PrSeohcCNkpRLmfsW9gD/1O3fY9UvTdC6CCyUq18WuY/k2BrQSfkze97A==",
+  "dgSpecHash": "h817S1a3GosbP4/mUji9iB3xq6hkyix7+U0Cz8EQkxwbTE/wB2BXuuLZD9sRO7HjWGIX5c+cUVaSrHEYAdRLBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phuc.giang\\source\\repos\\Iden4demo\\quickstart\\src\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\bizyo\\OneDrive\\Tài liệu\\GitHub\\Identity4Demo\\src\\Client\\Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\phuc.giang\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
-    "C:\\Users\\phuc.giang\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\bizyo\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\bizyo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
